@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/pxboct/static/js/main.15e714c2.chunk.js",
+    "main.js.map": "/pxboct/static/js/main.15e714c2.chunk.js.map",
+    "runtime-main.js": "/pxboct/static/js/runtime-main.5a4cfc16.js",
+    "runtime-main.js.map": "/pxboct/static/js/runtime-main.5a4cfc16.js.map",
+    "static/css/2.ec02d681.chunk.css": "/pxboct/static/css/2.ec02d681.chunk.css",
+    "static/js/2.b22b0f33.chunk.js": "/pxboct/static/js/2.b22b0f33.chunk.js",
+    "static/js/2.b22b0f33.chunk.js.map": "/pxboct/static/js/2.b22b0f33.chunk.js.map",
+    "static/js/3.f8591dda.chunk.js": "/pxboct/static/js/3.f8591dda.chunk.js",
+    "static/js/3.f8591dda.chunk.js.map": "/pxboct/static/js/3.f8591dda.chunk.js.map",
+    "index.html": "/pxboct/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/pxboct/static/css/2.ec02d681.chunk.css.map",
+    "static/js/2.b22b0f33.chunk.js.LICENSE.txt": "/pxboct/static/js/2.b22b0f33.chunk.js.LICENSE.txt",
+    "static/media/bars.3fb19b63.svg": "/pxboct/static/media/bars.3fb19b63.svg",
+    "static/media/home-1.38a54f60.jpg": "/pxboct/static/media/home-1.38a54f60.jpg",
+    "static/media/home-2.9f67aae1.jpg": "/pxboct/static/media/home-2.9f67aae1.jpg",
+    "static/media/house-1.e63e4a2c.jpg": "/pxboct/static/media/house-1.e63e4a2c.jpg",
+    "static/media/house-2.7af50cfa.jpg": "/pxboct/static/media/house-2.7af50cfa.jpg",
+    "static/media/house-3.a6a5216c.jpg": "/pxboct/static/media/house-3.a6a5216c.jpg",
+    "static/media/house-4.f5a28bdc.jpg": "/pxboct/static/media/house-4.f5a28bdc.jpg",
+    "static/media/house-5.c8d044d9.jpg": "/pxboct/static/media/house-5.c8d044d9.jpg",
+    "static/media/interior-1.c2a07f5d.jpg": "/pxboct/static/media/interior-1.c2a07f5d.jpg",
+    "static/media/kitchen-1.7e7dfb4d.jpg": "/pxboct/static/media/kitchen-1.7e7dfb4d.jpg",
+    "static/media/slide-1.00b8fbe7.jpg": "/pxboct/static/media/slide-1.00b8fbe7.jpg",
+    "static/media/slide-2.d46754e9.jpg": "/pxboct/static/media/slide-2.d46754e9.jpg",
+    "static/media/slide-3.36b832b4.jpg": "/pxboct/static/media/slide-3.36b832b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a4cfc16.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.b22b0f33.chunk.js",
+    "static/js/main.15e714c2.chunk.js"
+  ]
+}
